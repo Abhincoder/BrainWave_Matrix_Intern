@@ -3,7 +3,7 @@
 
 ## Introduction:
 
-The Store Data Analysis and Profit Prediction project is a Python-based data analysis and machine learning project aimed at gaining insights into the sales data of a store and predicting future profits. In today's competitive business landscape, understanding sales trends, customer behavior, and predicting future profitability are crucial for making informed business decisions and maximizing profits.
+The Store Data Analysis and Profit Prediction project is a Python-based data analysis aimed at gaining insights into the sales data of a store. In today's competitive business landscape, understanding sales trends, customer behavior, and predicting future profitability are crucial for making informed business decisions and maximizing profits.
 
 By leveraging advanced data analysis techniques and machine learning algorithms, this project enables businesses to analyze their sales data, uncover hidden patterns and trends, and make accurate predictions about future profits. It provides a comprehensive framework for exploring the dataset, visualizing key metrics, and training predictive models.
 
@@ -21,11 +21,7 @@ The objective of the Superstore Data Analysis and Profit Prediction project is t
 
 2) Visualize Data: Provide visual representations of sales data through charts, graphs, and interactive visualizations. Visualizations aid in understanding complex information, identifying outliers, and communicating findings effectively, enabling stakeholders to grasp sales performance at a glance.
 
-3) Predict Future Profits: Develop and train machine learning models using historical sales data to forecast future profits. Accurate profit predictions empower businesses to make proactive decisions, such as adjusting pricing strategies, optimizing inventory management, or identifying potential growth opportunities.
-
-4) Evaluate Model Performance: Assess the performance of the predictive models by measuring key metrics such as accuracy, precision and Adjusted R2-score. Evaluating model performance ensures that predictions are reliable and can be used with confidence to support business decisions.
-
-5) Enable Data-Driven Decision Making: Provide businesses with the tools and insights necessary to make data-driven decisions. By leveraging the project's capabilities, businesses can align their strategies, allocate resources effectively, and adapt to changing market conditions, ultimately maximizing profitability.
+3) Enable Data-Driven Decision Making: Provide businesses with the tools and insights necessary to make data-driven decisions. By leveraging the project's capabilities, businesses can align their strategies, allocate resources effectively, and adapt to changing market conditions, ultimately maximizing profitability.
 
 ## Data Description:
 
